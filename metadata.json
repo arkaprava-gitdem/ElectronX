@@ -1,0 +1,6 @@
+{
+  "name": "ELECTRONX - Semiconductor Laboratory",
+  "description": "Interactive semiconductor device laboratory and simulation platform for B.Tech Electronics covering PN junctions, BJT, FET, CMOS, optoelectronics, and special devices.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
